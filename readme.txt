@@ -1,1 +1,1 @@
-Hello!
+Hello!Just a text for playing with git.
